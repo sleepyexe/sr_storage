@@ -1,0 +1,4 @@
+Config = {}
+
+Config.useTarget = true
+
